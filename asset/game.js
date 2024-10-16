@@ -483,7 +483,7 @@ const col = "col[output]";
 const map_col = 2; //地圖行
 const map_row = 2; //地圖列
 const map = [
-    31836
+    30177
 ];
 /**
  * 「指定預載」
